@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Pumipath Muangthong",
+        "email": "Pumipath.Muangthong@gmail.com",
+        "password": "1234",
+        "gender": "Male"
+      }
+    ]
+  }
+  
